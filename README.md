@@ -1,11 +1,34 @@
-Hello Developers
-Here's a website that helps your dogs find a match for their life partner. 
-Why does your dog stay single when their owner is not ;)
+# 🐶 TinderForDogs
 
-It's a fun project and since we are newbie in this niche we kept it simple and worked on basic frontend.
+A playful, frontend-only project where dog owners can find matches for their furry friends! Swipe left or right to explore profiles of adorable dogs and have fun with this lighthearted project.
 
-Team members:
-Kaustav Mukherjee
-Disha Maiti
-Priyanjana Mukherjee
-Debmalya Sadhukhan
+---
+
+## 🚀 Demo  
+Check out the live demo here: [TinderForDogs on GitHub Pages](https://debmalooo.github.io/TinderForDogs/)
+
+---
+
+## 🎯 Features  
+- **Simple Swipe Interface**: Swipe left to pass, right to match.  
+- **Dog Profiles**: Images, names, and details of dogs.  
+- **Frontend-Only**: Runs entirely in the browser.  
+
+---
+
+## 🛠️ Tech Stack  
+- **HTML**: Markup for the project.  
+- **CSS**: Styling to make the app visually appealing.  
+- **JavaScript**: Handles swipe functionality and interactivity.
+
+---
+
+## 📂 Directory Structure  
+```plaintext
+TinderForDogs/
+├── css/               # Stylesheets for the project
+├── images/            # Dog profile pictures
+├── goal images/       # Placeholder or extra images
+├── index.html         # Main HTML file
+└── README.md          # Project documentation
+
